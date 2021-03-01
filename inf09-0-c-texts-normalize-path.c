@@ -72,4 +72,4 @@ extern void normalize_path(char * path) {
       head = tmp - shift;
     }
   }
-}}
+}
